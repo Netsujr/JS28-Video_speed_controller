@@ -27,6 +27,7 @@ video {
   border-radius: 50px;
   box-shadow: 0 0 1px 3px rgba(0,0,0,0.1);
   overflow: hidden;
+  /* challenge will be to start the bar from the bottom (another day)  */
 }
 
 .speed-bar {
